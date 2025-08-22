@@ -35,11 +35,11 @@ function App() {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
               <img 
-                src="/public/Ezhuthu.jpg" 
+                src="Ezhuthu.jpg" 
                 alt="Ezhuthu Notes Logo" 
                 className="h-10 w-10 rounded-lg object-cover"
               />
-              
+              <Edit3 className="h-8 w-8 text-gray-900" />
               <span className="text-xl font-bold text-gray-900">Ezhuthu Notes</span>
             </div>
             
