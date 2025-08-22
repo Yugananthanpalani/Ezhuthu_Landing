@@ -140,7 +140,7 @@ function App() {
               Experience the future of note-taking with our minimalist, secure, and intelligent app designed for modern productivity.
             </p>
             <a
-              href="https://ezhuthu.vercel.app/"
+              href="https://ezhuthul.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center px-8 py-4 bg-black text-white font-semibold rounded-full hover:bg-gray-800 transition-all duration-300 transform hover:scale-105 shadow-2xl"
@@ -294,7 +294,7 @@ function App() {
                   </a>
                   
                   <a
-                    href="https://ezhuthu.vercel.app/"
+                    href="https://ezhuthul.vercel.app/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center justify-center px-6 py-4 bg-gray-50 border border-gray-200 rounded-xl hover:bg-gray-100 hover:shadow-lg transition-all duration-300 transform hover:scale-105"
